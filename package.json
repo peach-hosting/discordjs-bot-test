@@ -1,0 +1,28 @@
+{
+  "name": "discordjs-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "erlpack": "^0.1.3",
+    "utf-8-validate": "^5.0.2",
+    "zlib-sync": "^0.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peach-hosting/discordjs-bot-test.git"
+  },
+  "author": "paz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peach-hosting/discordjs-bot-test/issues"
+  },
+  "homepage": "https://github.com/peach-hosting/discordjs-bot-test#readme"
+}
